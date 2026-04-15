@@ -1,0 +1,2 @@
+# js-hi
+javascript series
